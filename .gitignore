@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+screenshots/
+*.output
+.idea
+*.tmp
+reports/*.html
+reports/*.xml
+rerun.txt
+.idea/
+logs/
